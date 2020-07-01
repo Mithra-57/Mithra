@@ -128,7 +128,7 @@ padding-bottom: 0;
   padding: 7% 15%;
 }
 @media (min-width: 768px) {
-.carousel-multi-item-2 .col-3.col-md-3 {
+.carousel-multi-item-2 .col-md-3 {
 float: left;
 width: 25%;
 max-width: 100%; } }
